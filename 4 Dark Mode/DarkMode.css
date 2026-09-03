@@ -1,0 +1,13 @@
+body{
+    background: #000;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    transition: background-color 0.5s;
+}
+p{
+    font-size: 30px;
+    cursor: pointer;
+}

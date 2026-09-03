@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    padding: 200px;
+}
+div{
+    /* background-color: palegoldenrod; */
+}
+input{
+    height: 30px;
+    width: 250px;
+    border-radius: 20px;
+    border: 1px solid black;
+    /* position: relative; */
+    padding: 0 10px;
+    font-size: 16px;
+}
+img{
+    position: relative;
+    right: 35px;
+    top: 5px;
+    cursor: pointer;
+}
