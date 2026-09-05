@@ -10,7 +10,7 @@ submitbtn.addEventListener("click",()=>{
 });
 
 okbtn.addEventListener("click",()=>{
-    popupbox.style.top = "-370px";
+    popupbox.style.top = "-450px";
     // popupbox.style.transition = ".1s";
     submitbtn.style.display = "block";
 })
